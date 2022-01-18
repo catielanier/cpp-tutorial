@@ -9,3 +9,7 @@ int main(void) {
   DrawBox();
   return 1;
 }
+
+int takeInAnArg(int argInt) {
+  return argInt;
+}
